@@ -1,5 +1,4 @@
-sammy-p is Sam Packard, currently a doctoral student in epidemiology at Columbia University. 
-I'm working on approaches to epidemiology and public health data science from an understanding that the distribution of health and disease, 
+sammy-p is Sam Packard, currently a doctoral student in epidemiology at Columbia University, working on approaches to epidemiology and public health data science from an understanding that the distribution of health and disease, 
 as well as the tools we use to understand them, as substantially shaped by social organization and institutions. 
 
 <!---
